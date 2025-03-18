@@ -1,2 +1,2 @@
-![OSI Model](1.png)
-![Network Packet Analysis](2.png)
+![Image](Desktop/1.png)
+![Image](Desktop/2.png)
